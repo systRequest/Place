@@ -1,8 +1,24 @@
 [
   {
     "roblox_id": "1167690996625178660",
-    "discord": "",
-    "discord_Name": "",
+    "discord": "1167690996625178660",
+    "discord_Name": {
+      "id": "1167690996625178660",
+      "bot": false,
+      "system": false,
+      "flags": 4194432,
+      "username": "dreckmodzofc",
+      "globalName": "Dreck",
+      "discriminator": "0",
+      "avatar": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "createdTimestamp": 1698469628245,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "tag": "dreckmodzofc",
+      "avatarURL": null,
+      "displayAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+    },
     "code": "9703"
   }
 ]
