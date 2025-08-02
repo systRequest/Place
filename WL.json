@@ -1,14 +1,12 @@
 [
   {
-    "roblox_id": 756732980,
-    "discord": ,
-    "discord_Name": ,
-    "code": "",
-    "guilds": [
-      ""
-    ],
-    "Mapa": [
-      ""
-    ]
+    "ID_Servidor": 1395886510724874410,
+    "Informacao": {
+      "Codigo": 1234,
+      "IdRoblox": 756732980,
+      "IdMapa": 133684848963356,
+      "IdDiscord": 1167690996625178660,
+      "NickDiscord": "dreckmodzofc"
+    }
   }
 ]
